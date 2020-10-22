@@ -1,10 +1,11 @@
 ---
 title: "Practical Machine Learning course project"
 author: "Ray Bem"
-date: '10/18/2020'
-output: 
-  html_document: 
-    keep_md: yes
+date: "10/18/2020"
+output:
+  md_document:
+    variant: gfm
+    preserve_yaml: TRUE
 ---
 
 ```{r setup, include=FALSE}
