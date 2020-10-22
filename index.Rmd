@@ -1,7 +1,7 @@
 ---
 title: "Practical Machine Learning course project"
 author: "Ray Bem"
-date: "10/18/2020"
+date: '10/18/2020'
 output: 
   html_document: 
     keep_md: yes
